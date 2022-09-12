@@ -16,7 +16,12 @@ You can reach me below.
 
 ## I’m currently working on <br>
 • [Learm-Swift](https://github.com/Keskinenes/Swift) <br>
-. [Catch-The-Kenny-Swift](https://github.com/Keskinenes/Catch-The-Kenny-Swift) <br>
+• [Catch-The-Kenny-Swift](https://github.com/Keskinenes/Catch-The-Kenny-Swift) <br>
+• [42piscine](https://github.com/Keskinenes/42piscine) <br>
+• [Ecole42_Libft](https://github.com/Keskinenes/Ecole42_Libft) <br>
+• [Ecole42_Printf](https://github.com/Keskinenes/Ecole42_Printf) <br>
+• [Ecole42_Get_Next_Line](https://github.com/Keskinenes/Ecole42_Get_Next_Line) <br>
+
 
 
 ## My Stats
