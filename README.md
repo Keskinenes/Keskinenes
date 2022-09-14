@@ -17,7 +17,7 @@ You can reach me below.
 ## I’m currently working on <br>
 
 • [Learn-Html](https://github.com/Keskinenes/Learn-Html) <br>
-• [Learn-Swift](https://github.com/Keskinenes/Swift) <br>
+• [Learn-Swift](https://github.com/Keskinenes/Learn-Swift) <br>
 • [Catch-The-Kenny-Swift](https://github.com/Keskinenes/Catch-The-Kenny-Swift) <br>
 • [42piscine](https://github.com/Keskinenes/42piscine) <br>
 • [Ecole42_Libft](https://github.com/Keskinenes/Ecole42_Libft) <br>
