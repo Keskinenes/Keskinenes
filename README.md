@@ -39,6 +39,8 @@
 • [Ecole42_Printf](https://github.com/Keskinenes/Ecole42_Printf) <br>
 • [Ecole42_Get_Next_Line](https://github.com/Keskinenes/Ecole42_Get_Next_Line) <br>
 
+## Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedaliacis&layout=compact&show_icons=true&theme=synthwave)](https://github.com/keskinenes) 
 <p>
   <img width="120" height="20" src="https://komarev.com/ghpvc/?username=keskinenes&color=blue">
 </p>
