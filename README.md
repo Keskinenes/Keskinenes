@@ -1,4 +1,4 @@
-## Hi, I'm Enes Keskin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  ## Hi, I'm Enes Keskin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,7 +10,7 @@
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
 
-[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/640px-HackerRank_Icon-1000px.png" align="left" />][HackerRank]
+
 
 [linkedin]:https://www.linkedin.com/in/enes-keskin-314094243/
 [instagram]:https://www.instagram.com/enes.keskin55/
