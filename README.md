@@ -12,9 +12,8 @@
 
 
 
-[linkedin]:https://www.linkedin.com/in/enes-keskin-314094243/
+[linkedin]: https://www.linkedin.com/in/eneskeskinnn/
 [instagram]:https://www.instagram.com/enes.keskin55/
-[HackerRank]:https://www.hackerrank.com/keskinenes8
 
 <br/>
 
