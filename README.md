@@ -21,13 +21,7 @@
 • [Chatbot-App](https://github.com/Keskinenes/Chatbot-App.git)<br>
 • [React-Todo-App](https://github.com/Keskinenes/React-Todo-App.git)<br>
 • [Learn-JavaScript](https://github.com/Keskinenes/Learn-JavaScript.git)<br>
-• [Learn-Html](https://github.com/Keskinenes/Learn-Html) <br>
-• [Learn-Swift](https://github.com/Keskinenes/Learn-Swift) <br>
-• [Catch-The-Kenny-Swift](https://github.com/Keskinenes/Catch-The-Kenny-Swift) <br>
-• [42piscine](https://github.com/Keskinenes/42piscine) <br>
-• [Ecole42_Libft](https://github.com/Keskinenes/Ecole42_Libft) <br>
-• [Ecole42_Printf](https://github.com/Keskinenes/Ecole42_Printf) <br>
-• [Ecole42_Get_Next_Line](https://github.com/Keskinenes/Ecole42_Get_Next_Line) <br>
+
 
 ## Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keskinenes&layout=compact&show_icons=true&theme=synthwave)](https://github.com/keskinenes) 
