@@ -18,7 +18,8 @@
 <br/>
 
 ## I’m currently working on <br>
-• [Learn-vueJS](https://github.com/Keskinenes/Learn-vueJS) <br>
+• [Learn-JavaScript](https://github.com/Keskinenes/Learn-JavaScript.git)<br>
+• [Learn-JavaScript](https://github.com/Keskinenes/React-Todo-App.git)<br>
 • [Learn-JavaScript](https://github.com/Keskinenes/Learn-JavaScript.git)<br>
 • [Learn-Html](https://github.com/Keskinenes/Learn-Html) <br>
 • [Learn-Swift](https://github.com/Keskinenes/Learn-Swift) <br>
