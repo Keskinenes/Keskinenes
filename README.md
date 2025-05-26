@@ -12,7 +12,7 @@ I'm a passionate Frontend Developer from Turkey, dedicated to building user-frie
 Here are some of the projects I'm proud of:
 
 ### 💬 Chatbot App
-An AI-powered chatbot interface built with React and Hugging Face API.
+A chatbot application powered by AI, developed using React, and connected to MockAPI for simulated backend interactions.
 
 ### 🎬 Movie App
 A movie search and favorite app using TMDB API, Firebase for auth and favorites.
