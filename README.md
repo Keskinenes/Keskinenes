@@ -1,6 +1,7 @@
-  ## Hi, I'm Enes Keskin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  ## # 👋 Merhaba, ben Enes! 
 </br>
-<div id="header" align="center">
+Frontend Developer olarak React, Tailwind ve Firebase ile modern web projeleri geliştiriyorum.
+<div id="header" align="flex">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
