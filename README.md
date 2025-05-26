@@ -1,31 +1,31 @@
-  ## # 👋 Merhaba, ben Enes! 
-</br>
-Frontend Developer olarak React, Tailwind ve Firebase ile modern web projeleri geliştiriyorum.
-<div id="header" align="flex">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Hi there, I'm Enes 👋
 
+I'm a passionate Frontend Developer from Turkey, dedicated to building user-friendly and responsive web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills.
 
-## How to reach me
+## 🔧 Tech Stack
+- 🧩 Languages: JavaScript (ES6+), HTML5, CSS3
+- ⚛️ Frameworks: React, Tailwind CSS
+- 🔌 APIs: RESTful APIs, Firebase (Auth & Realtime DB)
+- 🛠️ Tools: Git, GitHub, Vite, VS Code
 
-[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
-[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
+## 🚀 Projects
+Here are some of the projects I'm proud of:
 
+### 💬 Chatbot App
+An AI-powered chatbot interface built with React and Hugging Face API.
 
+### 🎬 Movie App
+A movie search and favorite app using TMDB API, Firebase for auth and favorites.
 
-[linkedin]: https://www.linkedin.com/in/eneskeskinnn/
-[instagram]:https://www.instagram.com/enes.keskin55/
+> 📌 Visit my repositories to learn more.
 
-<br/>
+## 📚 Currently Learning
+- TypeScript
+- Next.js
+- Testing tools (Jest, React Testing Library)
 
-## I’m currently working on <br>
-• [Chatbot-App](https://github.com/Keskinenes/Chatbot-App.git)<br>
-• [React-Todo-App](https://github.com/Keskinenes/React-Todo-App.git)<br>
-• [Learn-JavaScript](https://github.com/Keskinenes/Learn-JavaScript.git)<br>
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/eneskeskinnn/)
+---
 
-
-## Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keskinenes&layout=compact&show_icons=true&theme=synthwave)](https://github.com/keskinenes) 
-<p>
-  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=keskinenes&color=blue">
-</p>
+Thanks for visiting my GitHub profile!
